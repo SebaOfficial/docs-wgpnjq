@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-v4ypdr.mythos-agent.us/sitemap.xml
